@@ -1,5 +1,6 @@
 Events
 ------
+ Never think that lack of variability is stability. Don't confuse lack of volatility with stability, ever.
 
 Revolution
  25% chance of losing, otherwise -3 IS and -2 MS.
