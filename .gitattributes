@@ -1,1 +1,2 @@
 build-constants/* linguist-vendored
+build.sh linguist-vendored
