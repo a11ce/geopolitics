@@ -1,2 +1,2 @@
-build-constants/* linguist-vendored
+build-constants/pandoc.css linguist-vendored
 build.sh linguist-vendored
